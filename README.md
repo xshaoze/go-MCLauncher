@@ -3,7 +3,7 @@
 </p>
 
 # 🌟简介
-<h3 style="text-align: center">
+<h3 align="center" style="text-align: center">
     Go Minecraft Launcher - 基于
     <a target="_blank" href="https://github.com/wailsapp/wails">Wails</a>
     构建的 Minecraft 启动器
