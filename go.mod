@@ -1,4 +1,4 @@
-module myproject
+module myProject
 
 go 1.21
 
