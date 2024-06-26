@@ -11,3 +11,4 @@ go.work
 build/bin
 node_modules
 frontend/dist
+.minecraft
