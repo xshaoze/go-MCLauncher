@@ -1,9 +1,9 @@
 <p align="center" style="text-align: center">
   <img src="./assets/img/Go-MC-Launcher.png" width="80%"><br/>
 </p>
-<p align="center">
-  GMCL
-</p>
+<h3 align="center" style="text-align: center">
+    GMCL
+</h3>
 
 # 🌟简介
 <h3 align="center" style="text-align: center">
