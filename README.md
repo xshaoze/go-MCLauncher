@@ -2,7 +2,7 @@
   <img src="./assets/img/Go-MC-Launcher.png" width="80%"><br/>
 </p>
 <h3 align="center" style="text-align: center">
-    GMCL
+    简称：GMCL <del>感觉像是抄HCML的命名方式</del>
 </h3>
 
 # 🌟简介
