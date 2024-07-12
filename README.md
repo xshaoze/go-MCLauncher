@@ -1,5 +1,5 @@
 <p align="center" style="text-align: center">
-  <img src="./assets/img/MC-Luncher.png" width="55%"><br/>
+  <img src="./assets/img/Go-MC-Launcher.png" width="55%"><br/>
 </p>
 
 # 🌟简介
